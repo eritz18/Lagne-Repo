@@ -4,125 +4,93 @@ from models import books
 def show_books():
     print("\nAll Books")
 
-    for i, book in enumerate(books, 1):
+    for index, book in enumerate(books, start=1):
+        status = "Borrowed" if book["borrowed"] else "Available"
+
+        print(f"\nBook {index}")
+        print(f"Title: {book['title']}")
+        print(f"Author: {book['author']}")
+        print(f"Status: {status}")
 
         if book["borrowed"]:
-            status = "Borrowed"
+            print(f"Borrowed By: {book['borrowed_by']}")
+
+
+def borrow_book():
+    show_books()
+
+    try:
+        choice = int(input("\nEnter book number to borrow: "))
+
+        if choice < 1 or choice > len(books):
+            print("Invalid book number.")
+            return
+
+        book = books[choice - 1]
+
+        if book["borrowed"]:
+            print("Sorry! This book is already borrowed.")
         else:
-            status = "Available"
+            student = input("Enter student name: ")
+            book["borrowed"] = True
+            book["borrowed_by"] = student
+            print("Book borrowed successfully!")
 
-        print(f"\nBook {i}")
-        print("Title:", book["title"])
-        print("Author:", book["author"])
-        print("Status:", status)
-
-        if book["borrowed"]:
-            print("Student:", book["student"])
+    except ValueError:
+        print("Please enter a valid number.")
 
 
-def available_books():
+def return_book():
+    show_books()
+
+    try:
+        choice = int(input("\nEnter book number to return: "))
+
+        if choice < 1 or choice > len(books):
+            print("Invalid book number.")
+            return
+
+        book = books[choice - 1]
+
+        if not book["borrowed"]:
+            print("This book is already available.")
+        else:
+            book["borrowed"] = False
+            book["borrowed_by"] = ""
+            print("Book returned successfully!")
+
+    except ValueError:
+        print("Please enter a valid number.")
+
+
+def show_available_books():
     print("\nAvailable Books")
 
     found = False
 
-    for i, book in enumerate(books, 1):
+    for index, book in enumerate(books, start=1):
         if not book["borrowed"]:
-            print(f"{i}. {book['title']} by {book['author']}")
             found = True
+            print(f"\nBook {index}")
+            print(f"Title: {book['title']}")
+            print(f"Author: {book['author']}")
 
     if not found:
         print("No available books.")
 
 
-def borrowed_books():
+def show_borrowed_books():
     print("\nBorrowed Books")
 
     found = False
 
-    for i, book in enumerate(books, 1):
+    for index, book in enumerate(books, start=1):
         if book["borrowed"]:
-            print(f"{i}. {book['title']} - {book['student']}")
             found = True
+            print(f"\nBook {index}")
+            print(f"Title: {book['title']}")
+            print(f"Author: {book['author']}")
+            print(f"Borrowed By: {book['borrowed_by']}")
 
     if not found:
         print("No borrowed books.")
-
-
-def borrow_book():
-    available_books()
-
-    num = int(input("\nEnter book number: "))
-
-    if num < 1 or num > len(books):
-        print("Invalid book number.")
-        return
-
-    book = books[num - 1]
-
-    if book["borrowed"]:
-        print("Book is already borrowed.")
-    else:
-        name = input("Enter student name: ")
-        book["borrowed"] = True
-        book["student"] = name
-        print("Book borrowed successfully.")
-
-
-def return_book():
-    borrowed_books()
-
-    num = int(input("\nEnter book number: "))
-
-    if num < 1 or num > len(books):
-        print("Invalid book number.")
-        return
-
-    book = books[num - 1]
-
-    if not book["borrowed"]:
-        print("Book is already available.")
-    else:
-        book["borrowed"] = False
-        book["student"] = ""
-        print("Book returned successfully.")
-
-
-def menu():
-
-    while True:
-
-        print("\nLibrary Book Borrowing System")
-        print("1. Show All Books")
-        print("2. Borrow a Book")
-        print("3. Return a Book")
-        print("4. Show Available Books")
-        print("5. Show Borrowed Books")
-        print("6. Exit")
-
-        choice = input("Enter your choice: ")
-
-        if choice == "1":
-            show_books()
-
-        elif choice == "2":
-            borrow_book()
-
-        elif choice == "3":
-            return_book()
-
-        elif choice == "4":
-            available_books()
-
-        elif choice == "5":
-            borrowed_books()
-
-        elif choice == "6":
-            print("Thank you!")
-            break
-
-        else:
-            print("Invalid choice.")
-
-
-if __name__ == "__main__":
-    menu()

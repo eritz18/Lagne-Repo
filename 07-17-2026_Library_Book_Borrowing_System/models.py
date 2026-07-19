@@ -3,18 +3,18 @@ books = [
         "title": "Python Basics",
         "author": "Ana Cruz",
         "borrowed": False,
-        "student": ""
+        "borrowed_by": ""
     },
     {
         "title": "Django for Students",
         "author": "Mark Reyes",
         "borrowed": False,
-        "student": ""
+        "borrowed_by": ""
     },
     {
         "title": "Data Structures",
         "author": "Lea Santos",
         "borrowed": False,
-        "student": ""
+        "borrowed_by": ""
     }
 ]
