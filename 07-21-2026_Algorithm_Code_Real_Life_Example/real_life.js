@@ -1,10 +1,10 @@
-// REAL LIFE EXAMPLE: KUNG MATUTULOG NA AKO O MAGLALARO PA AKO
-// Kung may pasok pa ako bukas, matutulog na ako.
-// Kung wala akong pasok bukas, maglalaro pa muna ako.
-// Pero kung lowbat na ang laptop o cellphone ko, matutulog na lang ako.
-// Kung may battery pa, tuloy lang sa paglalaro.
+// REAL LIFE EXAMPLE: KON MATULOG NA KO O MAHAMPANG PA
+// Kon may eskwela ako buas, matulog na ko.
+// Kon wala ko eskwela buas, maghampang pa anay ko.
+// Pro kon lowbat na laptop ukon cellphone ko, matulog na lang ko.
+// Kon may battery pa, ti hampang gyapon.
 
-let mayPasok = true;
+let mayEskwela = true;
 let lowbat = false;
 
 const readline = require("readline");
@@ -14,20 +14,20 @@ const rl = readline.createInterface({
     output: process.stdout
 });
 
-rl.question("May pasok ka ba bukas? ", (answer) => {
-    mayPasok = answer.toLowerCase() === "oo";
+rl.question("May eskwela ka buas? ", (answer) => {
+    mayEskwela = answer.toLowerCase() === "huo";
 
-    if (mayPasok) {
-        console.log("Matutulog na ako dahil may pasok pa ako bukas.");
+    if (mayEskwela) {
+        console.log("Matulog na ko kay may eskwela pa ko buas.");
         rl.close();
     } else {
-        rl.question("Lowbat na ba ang laptop o cellphone mo? ", (answer) => {
-            lowbat = answer.toLowerCase() === "oo";
+        rl.question("Lowbat na imo laptop o cellphone? ", (answer) => {
+            lowbat = answer.toLowerCase() === "huo";
 
             if (lowbat) {
-                console.log("Matutulog na lang ako at icha-charge ko muna.");
+                console.log("Matulog na lang ko i-charge ko anay.");
             } else {
-                console.log("Tuloy lang muna ako sa paglalaro!");
+                console.log("Ti mahampang la ko anay!");
             }
 
             rl.close();
