@@ -1,0 +1,54 @@
+[
+  {
+    "id": "ignis",
+    "name": "The Ignis Realm",
+    "icon": "🔥",
+    "element": "Fire",
+    "tagline": "Where passion becomes flame",
+    "rulingForce": "The Solar Forge",
+    "description": "The Ignis Realm sits closest to the sun's own furnace, a domain of motion, appetite, and beginnings. Nothing here stays still for long. Fire-born souls act first and reflect after, mistaking hesitation for a kind of death. They are the ones who light the first torch in a dark room, whether or not anyone asked them to.",
+    "virtues": ["Courage", "Momentum", "Warmth", "Conviction"],
+    "shadows": ["Impatience", "Burnout", "Recklessness"],
+    "practice": "Ignis souls are asked, once a season, to sit with a flame they did not light themselves — a reminder that not every fire needs their hand to keep burning.",
+    "guardianRelic": "The Ember Compass, said to always point toward whatever needs courage most."
+  },
+  {
+    "id": "terra",
+    "name": "The Terra Realm",
+    "icon": "🌿",
+    "element": "Earth",
+    "tagline": "Where patience becomes mountain",
+    "rulingForce": "The Deep Root",
+    "description": "The Terra Realm is built on bedrock older than memory, a domain of endurance, craft, and quiet accumulation. Earth-born souls measure their lives in seasons rather than moments, distrustful of anything built too quickly to last. They are the ones still standing, unmoved, long after the storm that scattered everyone else.",
+    "virtues": ["Patience", "Loyalty", "Craftsmanship", "Stability"],
+    "shadows": ["Stubbornness", "Rigidity", "Over-caution"],
+    "practice": "Terra souls are asked, once a season, to leave something unfinished on purpose — a reminder that not every structure needs to be permanent to matter.",
+    "guardianRelic": "The Root-Bound Lantern, which never goes out but never burns brighter than it must."
+  },
+  {
+    "id": "aether",
+    "name": "The Aether Realm",
+    "icon": "🌬️",
+    "element": "Air",
+    "tagline": "Where thought becomes wind",
+    "rulingForce": "The Wandering Current",
+    "description": "The Aether Realm has no fixed shape, a domain of ideas, conversation, and the spaces between certainties. Air-born souls change direction as easily as they change their minds, and consider that a strength rather than a flaw. They are the ones who ask the question no one else thought to ask, then are three rooms away before anyone answers.",
+    "virtues": ["Curiosity", "Wit", "Adaptability", "Perspective"],
+    "shadows": ["Detachment", "Restlessness", "Indecision"],
+    "practice": "Aether souls are asked, once a season, to finish a thought out loud before starting the next one — a reminder that not every idea needs to keep moving to be real.",
+    "guardianRelic": "The Glass Weathervane, which shows not the wind that is blowing, but the wind that is coming."
+  },
+  {
+    "id": "abyss",
+    "name": "The Abyss Realm",
+    "icon": "💧",
+    "element": "Water",
+    "tagline": "Where feeling becomes tide",
+    "rulingForce": "The Undertow",
+    "description": "The Abyss Realm reaches deeper than light travels, a domain of intuition, memory, and the currents beneath every calm surface. Water-born souls feel first and explain later, if they explain at all, trusting a pull they cannot always name. They are the ones who know something is wrong in a room before a single word has been spoken.",
+    "virtues": ["Empathy", "Intuition", "Depth", "Devotion"],
+    "shadows": ["Moodiness", "Over-absorption", "Secrecy"],
+    "practice": "Abyss souls are asked, once a season, to name a feeling out loud before it becomes an undertow — a reminder that not every current needs to be private to be honored.",
+    "guardianRelic": "The Tidebound Locket, which holds one memory safe no matter how far its owner wanders."
+  }
+]

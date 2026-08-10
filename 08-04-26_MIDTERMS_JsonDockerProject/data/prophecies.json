@@ -1,0 +1,50 @@
+{
+  "openings": [
+    "The Oracle stirs, and the stars rearrange themselves to speak of you.",
+    "Beyond the veil of ordinary days, the Celestial Order has been watching.",
+    "A hush falls over the twelve courts as your fragment of fate comes forward.",
+    "The archive of starlight opens to a page that has been waiting for this moment.",
+    "Somewhere between one breath and the next, the Wheel of Months turns toward you.",
+    "The Oracle does not choose its words carelessly, and it has chosen these for you alone."
+  ],
+  "celestialEvents": [
+    "beneath a sky where two moons of memory and possibility hang side by side",
+    "as the {realmName} court aligns with a star that has not been named in a thousand years",
+    "while {alignment} bends unusually close to the ordinary world",
+    "in the narrow hour when starlight and dawn have not yet decided who owns the sky",
+    "as the Wheel of Months pauses, just briefly, on the spoke marked by your own becoming",
+    "while the tides of the Abyss and the winds of the Aether call a rare truce"
+  ],
+  "destinyMessages": [
+    "you are closer to the turning point than the ordinary hours have let you believe",
+    "a door you assumed was closed has never actually been locked",
+    "the version of you still waiting to arrive is not far off now",
+    "something you built quietly, without an audience, is about to be seen",
+    "the pattern you've been repeating is finally ready to break in your favor",
+    "what you have mistaken for delay was, in truth, preparation"
+  ],
+  "warnings": [
+    "but the Oracle cautions against mistaking speed for progress in the days ahead",
+    "though a shortcut will present itself, and it is not the path meant for you",
+    "yet pride, left unchecked, could cost you more than patience ever would",
+    "so guard against the voice that tells you it is safer to stay exactly as you are",
+    "but beware giving your trust to whoever asks for it loudest, rather than truest",
+    "though there is a temptation coming to abandon this too early — do not"
+  ],
+  "guidances": [
+    "Let {creature} remind you that {power} was never something you had to earn twice.",
+    "Carry {sigil} in mind as a quiet permission slip to keep going.",
+    "When in doubt, ask what {guide} would do, and do the braver version of that.",
+    "Return to {element} the way you'd return to an old friend — it already knows what you need.",
+    "Trust the instinct that feels inconvenient rather than the one that feels comfortable.",
+    "Move at the pace of {creature}, not at the pace of the world's expectations of you."
+  ],
+  "endings": [
+    "So the Oracle has spoken, and so it shall unfold, in its own time and no sooner.",
+    "This is not a prophecy of certainty, but of tendency — the rest is still yours to choose.",
+    "Take what resonates, release what does not, and walk on beneath the same old stars.",
+    "The reading closes here, though the story it describes is only just beginning.",
+    "May this fragment of fate find you exactly when you needed to hear it, and not a moment later.",
+    "The Celestial Order returns to its silence, until you call on it again."
+  ]
+}

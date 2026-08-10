@@ -1,0 +1,166 @@
+{
+  "categories": [
+    {
+      "id": "love",
+      "label": "Love",
+      "icon": "💞",
+      "tagline": "For matters of the heart"
+    },
+    {
+      "id": "career",
+      "label": "Career",
+      "icon": "💼",
+      "tagline": "For work, ambition, and calling"
+    },
+    {
+      "id": "wealth",
+      "label": "Wealth",
+      "icon": "💰",
+      "tagline": "For fortune and resource"
+    },
+    {
+      "id": "health",
+      "label": "Health",
+      "icon": "🌿",
+      "tagline": "For body, rest, and vitality"
+    },
+    {
+      "id": "family",
+      "label": "Family",
+      "icon": "🏡",
+      "tagline": "For kin and chosen kin alike"
+    },
+    {
+      "id": "adventure",
+      "label": "Adventure",
+      "icon": "🧭",
+      "tagline": "For journeys and the unknown"
+    },
+    {
+      "id": "destiny",
+      "label": "Destiny",
+      "icon": "✨",
+      "tagline": "For the larger arc of a life"
+    },
+    {
+      "id": "spiritual",
+      "label": "Spiritual Growth",
+      "icon": "🦉",
+      "tagline": "For the inner and unseen"
+    }
+  ],
+  "fortunes": {
+    "love": {
+      "January": "In matters of love, the Elder Frost Dragon teaches you to bring temporal endurance into how you attach — loving with the same earth-born instinct that shapes everything else you touch. Let The Mountain Sage of the North remind you that closeness and independence were never truly opposites.",
+      "February": "In matters of love, the Storm Griffin teaches you to bring visionary insight into how you attach — loving with the same air-born instinct that shapes everything else you touch. Let The Silver Owl remind you that closeness and independence were never truly opposites.",
+      "March": "In matters of love, the Moonlit Kraken teaches you to bring dream weaving into how you attach — loving with the same water-born instinct that shapes everything else you touch. Let The Bioluminescent Whale remind you that closeness and independence were never truly opposites.",
+      "April": "In matters of love, the Flamehorn Ram teaches you to bring fearless ignition into how you attach — loving with the same fire-born instinct that shapes everything else you touch. Let The Red Fox remind you that closeness and independence were never truly opposites.",
+      "May": "In matters of love, the Emerald Minotaur teaches you to bring unbreakable will into how you attach — loving with the same earth-born instinct that shapes everything else you touch. Let The White Bull remind you that closeness and independence were never truly opposites.",
+      "June": "In matters of love, the Twin-Tailed Sylph teaches you to bring duality's whisper into how you attach — loving with the same air-born instinct that shapes everything else you touch. Let The Dragonfly remind you that closeness and independence were never truly opposites.",
+      "July": "In matters of love, the Pearl Serpent teaches you to bring sacred protection into how you attach — loving with the same water-born instinct that shapes everything else you touch. Let The Sea Turtle remind you that closeness and independence were never truly opposites.",
+      "August": "In matters of love, the Phoenix teaches you to bring immortality & rebirth into how you attach — loving with the same fire-born instinct that shapes everything else you touch. Let The Golden Lion remind you that closeness and independence were never truly opposites.",
+      "September": "In matters of love, the Whispering Sphinx teaches you to bring hidden truths into how you attach — loving with the same earth-born instinct that shapes everything else you touch. Let The Ivory Falcon remind you that closeness and independence were never truly opposites.",
+      "October": "In matters of love, the Twilight Chimera teaches you to bring perfect balance into how you attach — loving with the same air-born instinct that shapes everything else you touch. Let The Black Swan remind you that closeness and independence were never truly opposites.",
+      "November": "In matters of love, the Shadow Basilisk teaches you to bring transformative venom into how you attach — loving with the same water-born instinct that shapes everything else you touch. Let The Raven remind you that closeness and independence were never truly opposites.",
+      "December": "In matters of love, the Starforged Wyvern teaches you to bring boundless wanderlust into how you attach — loving with the same fire-born instinct that shapes everything else you touch. Let The Wolf remind you that closeness and independence were never truly opposites."
+    },
+    "career": {
+      "January": "In your work, the Elder Frost Dragon's gift for temporal endurance is your quiet advantage — not the loudest skill in the room, but the one that outlasts every trend. The Chronos Hourglass of Glaciers favors patient builders over quick claimants.",
+      "February": "In your work, the Storm Griffin's gift for visionary insight is your quiet advantage — not the loudest skill in the room, but the one that outlasts every trend. The Chalice of Ages favors patient builders over quick claimants.",
+      "March": "In your work, the Moonlit Kraken's gift for dream weaving is your quiet advantage — not the loudest skill in the room, but the one that outlasts every trend. The Pearl of Tides favors patient builders over quick claimants.",
+      "April": "In your work, the Flamehorn Ram's gift for fearless ignition is your quiet advantage — not the loudest skill in the room, but the one that outlasts every trend. The Blade of First Light favors patient builders over quick claimants.",
+      "May": "In your work, the Emerald Minotaur's gift for unbreakable will is your quiet advantage — not the loudest skill in the room, but the one that outlasts every trend. The Golden Bough favors patient builders over quick claimants.",
+      "June": "In your work, the Twin-Tailed Sylph's gift for duality's whisper is your quiet advantage — not the loudest skill in the room, but the one that outlasts every trend. The Twin Mirrors of Fate favors patient builders over quick claimants.",
+      "July": "In your work, the Pearl Serpent's gift for sacred protection is your quiet advantage — not the loudest skill in the room, but the one that outlasts every trend. The Moonstone Chalice favors patient builders over quick claimants.",
+      "August": "In your work, the Phoenix's gift for immortality & rebirth is your quiet advantage — not the loudest skill in the room, but the one that outlasts every trend. The Crown of Eternal Flame favors patient builders over quick claimants.",
+      "September": "In your work, the Whispering Sphinx's gift for hidden truths is your quiet advantage — not the loudest skill in the room, but the one that outlasts every trend. The Scroll of Infinite Knowledge favors patient builders over quick claimants.",
+      "October": "In your work, the Twilight Chimera's gift for perfect balance is your quiet advantage — not the loudest skill in the room, but the one that outlasts every trend. The Blade of Equilibrium favors patient builders over quick claimants.",
+      "November": "In your work, the Shadow Basilisk's gift for transformative venom is your quiet advantage — not the loudest skill in the room, but the one that outlasts every trend. The Vial of Rebirth favors patient builders over quick claimants.",
+      "December": "In your work, the Starforged Wyvern's gift for boundless wanderlust is your quiet advantage — not the loudest skill in the room, but the one that outlasts every trend. The Bow of Distant Horizons favors patient builders over quick claimants."
+    },
+    "wealth": {
+      "January": "Fortune moves toward you the way earth moves — in its own time, on its own terms. The Elder Frost Dragon's temporal endurance is best spent compounding small resources rather than chasing sudden windfalls; The Ouroboros of Frost marks steady accumulation as your truest wealth sigil.",
+      "February": "Fortune moves toward you the way air moves — in its own time, on its own terms. The Storm Griffin's visionary insight is best spent compounding small resources rather than chasing sudden windfalls; The Twin Rivers marks steady accumulation as your truest wealth sigil.",
+      "March": "Fortune moves toward you the way water moves — in its own time, on its own terms. The Moonlit Kraken's dream weaving is best spent compounding small resources rather than chasing sudden windfalls; The Ouroboros marks steady accumulation as your truest wealth sigil.",
+      "April": "Fortune moves toward you the way fire moves — in its own time, on its own terms. The Flamehorn Ram's fearless ignition is best spent compounding small resources rather than chasing sudden windfalls; The Ram's Horn marks steady accumulation as your truest wealth sigil.",
+      "May": "Fortune moves toward you the way earth moves — in its own time, on its own terms. The Emerald Minotaur's unbreakable will is best spent compounding small resources rather than chasing sudden windfalls; The Labyrinth Rose marks steady accumulation as your truest wealth sigil.",
+      "June": "Fortune moves toward you the way air moves — in its own time, on its own terms. The Twin-Tailed Sylph's duality's whisper is best spent compounding small resources rather than chasing sudden windfalls; The Mirrored Star marks steady accumulation as your truest wealth sigil.",
+      "July": "Fortune moves toward you the way water moves — in its own time, on its own terms. The Pearl Serpent's sacred protection is best spent compounding small resources rather than chasing sudden windfalls; The Crescent Shell marks steady accumulation as your truest wealth sigil.",
+      "August": "Fortune moves toward you the way fire moves — in its own time, on its own terms. The Phoenix's immortality & rebirth is best spent compounding small resources rather than chasing sudden windfalls; The Sunburst Crest marks steady accumulation as your truest wealth sigil.",
+      "September": "Fortune moves toward you the way earth moves — in its own time, on its own terms. The Whispering Sphinx's hidden truths is best spent compounding small resources rather than chasing sudden windfalls; The Sacred Scale marks steady accumulation as your truest wealth sigil.",
+      "October": "Fortune moves toward you the way air moves — in its own time, on its own terms. The Twilight Chimera's perfect balance is best spent compounding small resources rather than chasing sudden windfalls; The Scales of Dusk marks steady accumulation as your truest wealth sigil.",
+      "November": "Fortune moves toward you the way water moves — in its own time, on its own terms. The Shadow Basilisk's transformative venom is best spent compounding small resources rather than chasing sudden windfalls; The Serpent's Eye marks steady accumulation as your truest wealth sigil.",
+      "December": "Fortune moves toward you the way fire moves — in its own time, on its own terms. The Starforged Wyvern's boundless wanderlust is best spent compounding small resources rather than chasing sudden windfalls; The Archer's Star marks steady accumulation as your truest wealth sigil."
+    },
+    "health": {
+      "January": "Your body keeps the same rhythm as your ruling element, Earth — honor it rather than override it. The Elder Frost Dragon recovers best through temporal endurance, not through force; treat rest as a discipline, not a reward you have to earn.",
+      "February": "Your body keeps the same rhythm as your ruling element, Air — honor it rather than override it. The Storm Griffin recovers best through visionary insight, not through force; treat rest as a discipline, not a reward you have to earn.",
+      "March": "Your body keeps the same rhythm as your ruling element, Water — honor it rather than override it. The Moonlit Kraken recovers best through dream weaving, not through force; treat rest as a discipline, not a reward you have to earn.",
+      "April": "Your body keeps the same rhythm as your ruling element, Fire — honor it rather than override it. The Flamehorn Ram recovers best through fearless ignition, not through force; treat rest as a discipline, not a reward you have to earn.",
+      "May": "Your body keeps the same rhythm as your ruling element, Earth — honor it rather than override it. The Emerald Minotaur recovers best through unbreakable will, not through force; treat rest as a discipline, not a reward you have to earn.",
+      "June": "Your body keeps the same rhythm as your ruling element, Air — honor it rather than override it. The Twin-Tailed Sylph recovers best through duality's whisper, not through force; treat rest as a discipline, not a reward you have to earn.",
+      "July": "Your body keeps the same rhythm as your ruling element, Water — honor it rather than override it. The Pearl Serpent recovers best through sacred protection, not through force; treat rest as a discipline, not a reward you have to earn.",
+      "August": "Your body keeps the same rhythm as your ruling element, Fire — honor it rather than override it. The Phoenix recovers best through immortality & rebirth, not through force; treat rest as a discipline, not a reward you have to earn.",
+      "September": "Your body keeps the same rhythm as your ruling element, Earth — honor it rather than override it. The Whispering Sphinx recovers best through hidden truths, not through force; treat rest as a discipline, not a reward you have to earn.",
+      "October": "Your body keeps the same rhythm as your ruling element, Air — honor it rather than override it. The Twilight Chimera recovers best through perfect balance, not through force; treat rest as a discipline, not a reward you have to earn.",
+      "November": "Your body keeps the same rhythm as your ruling element, Water — honor it rather than override it. The Shadow Basilisk recovers best through transformative venom, not through force; treat rest as a discipline, not a reward you have to earn.",
+      "December": "Your body keeps the same rhythm as your ruling element, Fire — honor it rather than override it. The Starforged Wyvern recovers best through boundless wanderlust, not through force; treat rest as a discipline, not a reward you have to earn."
+    },
+    "family": {
+      "January": "Among kin, the Elder Frost Dragon plays the role its realm assigns it — a steady, earth-born presence more than a loud declaration. The Mountain Sage of the North suggests that showing up quietly, again and again, says more to family than any single grand gesture could.",
+      "February": "Among kin, the Storm Griffin plays the role its realm assigns it — a steady, air-born presence more than a loud declaration. The Silver Owl suggests that showing up quietly, again and again, says more to family than any single grand gesture could.",
+      "March": "Among kin, the Moonlit Kraken plays the role its realm assigns it — a steady, water-born presence more than a loud declaration. The Bioluminescent Whale suggests that showing up quietly, again and again, says more to family than any single grand gesture could.",
+      "April": "Among kin, the Flamehorn Ram plays the role its realm assigns it — a steady, fire-born presence more than a loud declaration. The Red Fox suggests that showing up quietly, again and again, says more to family than any single grand gesture could.",
+      "May": "Among kin, the Emerald Minotaur plays the role its realm assigns it — a steady, earth-born presence more than a loud declaration. The White Bull suggests that showing up quietly, again and again, says more to family than any single grand gesture could.",
+      "June": "Among kin, the Twin-Tailed Sylph plays the role its realm assigns it — a steady, air-born presence more than a loud declaration. The Dragonfly suggests that showing up quietly, again and again, says more to family than any single grand gesture could.",
+      "July": "Among kin, the Pearl Serpent plays the role its realm assigns it — a steady, water-born presence more than a loud declaration. The Sea Turtle suggests that showing up quietly, again and again, says more to family than any single grand gesture could.",
+      "August": "Among kin, the Phoenix plays the role its realm assigns it — a steady, fire-born presence more than a loud declaration. The Golden Lion suggests that showing up quietly, again and again, says more to family than any single grand gesture could.",
+      "September": "Among kin, the Whispering Sphinx plays the role its realm assigns it — a steady, earth-born presence more than a loud declaration. The Ivory Falcon suggests that showing up quietly, again and again, says more to family than any single grand gesture could.",
+      "October": "Among kin, the Twilight Chimera plays the role its realm assigns it — a steady, air-born presence more than a loud declaration. The Black Swan suggests that showing up quietly, again and again, says more to family than any single grand gesture could.",
+      "November": "Among kin, the Shadow Basilisk plays the role its realm assigns it — a steady, water-born presence more than a loud declaration. The Raven suggests that showing up quietly, again and again, says more to family than any single grand gesture could.",
+      "December": "Among kin, the Starforged Wyvern plays the role its realm assigns it — a steady, fire-born presence more than a loud declaration. The Wolf suggests that showing up quietly, again and again, says more to family than any single grand gesture could."
+    },
+    "adventure": {
+      "January": "The Elder Frost Dragon was never meant to stay still for long; its temporal endurance was forged for unfamiliar ground. Saturnian Peak, The First Zenith favors this season for the journey you have been postponing — the map matters less than the willingness to leave the shoreline.",
+      "February": "The Storm Griffin was never meant to stay still for long; its visionary insight was forged for unfamiliar ground. Uranus Awakening favors this season for the journey you have been postponing — the map matters less than the willingness to leave the shoreline.",
+      "March": "The Moonlit Kraken was never meant to stay still for long; its dream weaving was forged for unfamiliar ground. Neptune's Veil favors this season for the journey you have been postponing — the map matters less than the willingness to leave the shoreline.",
+      "April": "The Flamehorn Ram was never meant to stay still for long; its fearless ignition was forged for unfamiliar ground. Mars Ascendant favors this season for the journey you have been postponing — the map matters less than the willingness to leave the shoreline.",
+      "May": "The Emerald Minotaur was never meant to stay still for long; its unbreakable will was forged for unfamiliar ground. Venus in Bloom favors this season for the journey you have been postponing — the map matters less than the willingness to leave the shoreline.",
+      "June": "The Twin-Tailed Sylph was never meant to stay still for long; its duality's whisper was forged for unfamiliar ground. Mercury's Dance favors this season for the journey you have been postponing — the map matters less than the willingness to leave the shoreline.",
+      "July": "The Pearl Serpent was never meant to stay still for long; its sacred protection was forged for unfamiliar ground. The Waxing Moon favors this season for the journey you have been postponing — the map matters less than the willingness to leave the shoreline.",
+      "August": "The Phoenix was never meant to stay still for long; its immortality & rebirth was forged for unfamiliar ground. The Sun's Zenith favors this season for the journey you have been postponing — the map matters less than the willingness to leave the shoreline.",
+      "September": "The Whispering Sphinx was never meant to stay still for long; its hidden truths was forged for unfamiliar ground. Mercury's Harvest favors this season for the journey you have been postponing — the map matters less than the willingness to leave the shoreline.",
+      "October": "The Twilight Chimera was never meant to stay still for long; its perfect balance was forged for unfamiliar ground. Venus in Twilight favors this season for the journey you have been postponing — the map matters less than the willingness to leave the shoreline.",
+      "November": "The Shadow Basilisk was never meant to stay still for long; its transformative venom was forged for unfamiliar ground. Pluto's Descent favors this season for the journey you have been postponing — the map matters less than the willingness to leave the shoreline.",
+      "December": "The Starforged Wyvern was never meant to stay still for long; its boundless wanderlust was forged for unfamiliar ground. Jupiter's Expansion favors this season for the journey you have been postponing — the map matters less than the willingness to leave the shoreline."
+    },
+    "destiny": {
+      "January": "Zoomed out across a lifetime, the Elder Frost Dragon's arc bends toward temporal endurance — the thread present in your first chapter is still present now, even where it's hard to see. Born from the first snowfall of the universe, the Elder Frost Dragon watches over the passage of time from a throne of glacial silence.",
+      "February": "Zoomed out across a lifetime, the Storm Griffin's arc bends toward visionary insight — the thread present in your first chapter is still present now, even where it's hard to see. Legends place the Storm Griffin at the edge of every great change, wings cutting through the static before a new age is born.",
+      "March": "Zoomed out across a lifetime, the Moonlit Kraken's arc bends toward dream weaving — the thread present in your first chapter is still present now, even where it's hard to see. Where the ocean floor drops beyond any chart, the Moonlit Kraken keeps the archive of every dream ever surrendered to sleep.",
+      "April": "Zoomed out across a lifetime, the Flamehorn Ram's arc bends toward fearless ignition — the thread present in your first chapter is still present now, even where it's hard to see. The Flamehorn Ram is said to have lit the very first sunrise by charging headlong at the dark.",
+      "May": "Zoomed out across a lifetime, the Emerald Minotaur's arc bends toward unbreakable will — the thread present in your first chapter is still present now, even where it's hard to see. Deep in the oldest labyrinth, the Emerald Minotaur guards not a monster's secret but a garden — proof that strength and gentleness were never opposites.",
+      "June": "Zoomed out across a lifetime, the Twin-Tailed Sylph's arc bends toward duality's whisper — the thread present in your first chapter is still present now, even where it's hard to see. The Twin-Tailed Sylph is said to have been born of a single breath split into two winds, each pursuing a different horizon and neither wrong.",
+      "July": "Zoomed out across a lifetime, the Pearl Serpent's arc bends toward sacred protection — the thread present in your first chapter is still present now, even where it's hard to see. Coiled around the last shell of a sunken temple, the Pearl Serpent has guarded the same shoreline since the moon was new.",
+      "August": "Zoomed out across a lifetime, the Phoenix's arc bends toward immortality & rebirth — the thread present in your first chapter is still present now, even where it's hard to see. No creature in the twelve orders has died and returned more times than the Phoenix, and none wears its scars as ornaments quite so proudly.",
+      "September": "Zoomed out across a lifetime, the Whispering Sphinx's arc bends toward hidden truths — the thread present in your first chapter is still present now, even where it's hard to see. The Whispering Sphinx has guarded the same threshold since before roads led anywhere, testing every traveler with a question shaped exactly to their blind spot.",
+      "October": "Zoomed out across a lifetime, the Twilight Chimera's arc bends toward perfect balance — the thread present in your first chapter is still present now, even where it's hard to see. The Twilight Chimera was formed at the exact hour the sky can't decide between gold and violet, and has kept that indecision as its gift ever since.",
+      "November": "Zoomed out across a lifetime, the Shadow Basilisk's arc bends toward transformative venom — the thread present in your first chapter is still present now, even where it's hard to see. Few who meet the gaze of the Shadow Basilisk leave unchanged; fewer still leave unwilling to.",
+      "December": "Zoomed out across a lifetime, the Starforged Wyvern's arc bends toward boundless wanderlust — the thread present in your first chapter is still present now, even where it's hard to see. The Starforged Wyvern was hatched from a star that refused to stay fixed in its constellation, and has been wandering ever since, forging new paths from scattered light."
+    },
+    "spiritual": {
+      "January": "Inwardly, the Elder Frost Dragon asks you to sit with earth rather than resist it — the element is not a test to pass but a teacher to keep studying. The Mountain Sage of the North walks beside you here, not ahead and not behind.",
+      "February": "Inwardly, the Storm Griffin asks you to sit with air rather than resist it — the element is not a test to pass but a teacher to keep studying. The Silver Owl walks beside you here, not ahead and not behind.",
+      "March": "Inwardly, the Moonlit Kraken asks you to sit with water rather than resist it — the element is not a test to pass but a teacher to keep studying. The Bioluminescent Whale walks beside you here, not ahead and not behind.",
+      "April": "Inwardly, the Flamehorn Ram asks you to sit with fire rather than resist it — the element is not a test to pass but a teacher to keep studying. The Red Fox walks beside you here, not ahead and not behind.",
+      "May": "Inwardly, the Emerald Minotaur asks you to sit with earth rather than resist it — the element is not a test to pass but a teacher to keep studying. The White Bull walks beside you here, not ahead and not behind.",
+      "June": "Inwardly, the Twin-Tailed Sylph asks you to sit with air rather than resist it — the element is not a test to pass but a teacher to keep studying. The Dragonfly walks beside you here, not ahead and not behind.",
+      "July": "Inwardly, the Pearl Serpent asks you to sit with water rather than resist it — the element is not a test to pass but a teacher to keep studying. The Sea Turtle walks beside you here, not ahead and not behind.",
+      "August": "Inwardly, the Phoenix asks you to sit with fire rather than resist it — the element is not a test to pass but a teacher to keep studying. The Golden Lion walks beside you here, not ahead and not behind.",
+      "September": "Inwardly, the Whispering Sphinx asks you to sit with earth rather than resist it — the element is not a test to pass but a teacher to keep studying. The Ivory Falcon walks beside you here, not ahead and not behind.",
+      "October": "Inwardly, the Twilight Chimera asks you to sit with air rather than resist it — the element is not a test to pass but a teacher to keep studying. The Black Swan walks beside you here, not ahead and not behind.",
+      "November": "Inwardly, the Shadow Basilisk asks you to sit with water rather than resist it — the element is not a test to pass but a teacher to keep studying. The Raven walks beside you here, not ahead and not behind.",
+      "December": "Inwardly, the Starforged Wyvern asks you to sit with fire rather than resist it — the element is not a test to pass but a teacher to keep studying. The Wolf walks beside you here, not ahead and not behind."
+    }
+  }
+}
