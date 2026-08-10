@@ -1,3 +1,5 @@
+<div align="center">
+
 # 🔮 The Celestial Oracle
 
 ### *A Mystical Mythology & Fortune-Telling Web Application*
@@ -14,6 +16,8 @@
 ---
 
 *"Unveil your mythological essence, discover your destiny, and consult the stars."*
+
+</div>
 
 ---
 
