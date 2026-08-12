@@ -5,9 +5,8 @@
 ### *Programming Fundamentals using Python*
 
 <img src="https://img.shields.io/badge/Language-Python-3776AB?logo=python&logoColor=white" />
-<img src="https://img.shields.io/badge/Projects-2-blue" />
+<img src="https://img.shields.io/badge/Projects-3-blue" />
 <img src="https://img.shields.io/badge/Status-Ongoing-orange" />
-<img src="https://img.shields.io/badge/Author-Jehni%20Eritz%20H.%20Lagne-purple" />
 
 ---
 
@@ -29,5 +28,5 @@ Each project is designed to strengthen my understanding of Python programming, l
 |:----------|:---------------|
 | **drill1_07-16-2026_PRELIMS_BarangayVisitorLog** | A Python program that manages and records barangay visitor information using variables, functions, and structured program flow. |
 | **drill1_07-16-2026_PRELIMS_BarangayVisitorLog** | A Python application that simulates a simple library book borrowing system, demonstrating functions, data organization, and user interaction. |
-
+| **08-12-26_MIDTERMS_Integrative_Dundlenames** | A simple Python program that asks the user if it is raining and gives a corresponding school decision. It demonstrates Python packages, module imports, functions, user input, conditional statements, and loops using separate rainy.py and clear.py modules. |
 ---
