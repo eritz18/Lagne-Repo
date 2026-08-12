@@ -5,7 +5,7 @@
 ### *Programming Fundamentals using JavaScript*
 
 <img src="https://img.shields.io/badge/Language-JavaScript-F7DF1E?logo=javascript&logoColor=black" />
-<img src="https://img.shields.io/badge/Projects-5-blue" />
+<img src="https://img.shields.io/badge/Projects-7-blue" />
 <img src="https://img.shields.io/badge/Status-Ongoing-orange" />
 
 ---
