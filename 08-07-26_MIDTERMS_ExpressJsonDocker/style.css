@@ -1,0 +1,263 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  background: #0a0e14;
+  color: #e8e8e8;
+  min-height: 100vh;
+  padding: 2rem;
+}
+
+#app {
+  max-width: 1300px;
+  margin: 0 auto;
+}
+
+header {
+  background: linear-gradient(135deg, #1a1f2a, #0d1117);
+  border: 1px solid #2d3540;
+  border-radius: 16px;
+  padding: 2rem 2.5rem;
+  margin-bottom: 2.5rem;
+  box-shadow: 0 8px 32px rgba(0, 0, 0, 0.4);
+}
+
+.header-content h1 {
+  font-size: 2.8rem;
+  font-weight: 700;
+  margin-bottom: 0.3rem;
+  background: linear-gradient(135deg, #ff6b6b, #ffd93d);
+  -webkit-background-clip: text;
+  background-clip: text;
+  -webkit-text-fill-color: transparent;
+  color: #ffd93d;
+}
+
+.header-content p {
+  font-size: 1.2rem;
+  color: #a0aab8;
+  margin-bottom: 0.5rem;
+}
+
+.game-count {
+  display: inline-block;
+  background: #1a2230;
+  padding: 0.3rem 1.5rem;
+  border-radius: 30px;
+  font-size: 0.9rem;
+  color: #8fa0b8;
+  border: 1px solid #2d3540;
+}
+
+#game-container {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(320px, 1fr));
+  gap: 1.8rem;
+  margin: 1.5rem 0 2rem;
+}
+
+.game-card {
+  background: #141b24;
+  border: 1px solid #2a3340;
+  border-radius: 16px;
+  padding: 1.5rem;
+  transition: all 0.25s ease;
+  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.3);
+  display: flex;
+  flex-direction: column;
+}
+
+.game-card:hover {
+  transform: translateY(-4px);
+  border-color: #ffd93d;
+  box-shadow: 0 8px 24px rgba(255, 217, 61, 0.08);
+}
+
+.game-header {
+  display: flex;
+  align-items: center;
+  gap: 1rem;
+  margin-bottom: 0.8rem;
+}
+
+.game-image {
+  width: 64px;
+  height: 64px;
+  object-fit: cover;
+  border-radius: 12px;
+  border: 2px solid #2a3340;
+  background: #0d1117;
+  flex-shrink: 0;
+}
+
+.game-image-placeholder {
+  width: 64px;
+  height: 64px;
+  border-radius: 12px;
+  background: #1a2230;
+  border: 2px dashed #2d3540;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 1.8rem;
+  flex-shrink: 0;
+}
+
+.game-title {
+  flex: 1;
+  min-width: 0;
+}
+
+.game-title h3 {
+  font-size: 1.3rem;
+  font-weight: 600;
+  color: #f0f0f0;
+  line-height: 1.3;
+  word-wrap: break-word;
+}
+
+.game-title .year-badge {
+  display: inline-block;
+  background: #1a2230;
+  padding: 0.1rem 0.7rem;
+  border-radius: 20px;
+  font-size: 0.75rem;
+  color: #8fa0b8;
+  border: 1px solid #2d3540;
+}
+
+.game-details {
+  display: flex;
+  gap: 0.8rem;
+  flex-wrap: wrap;
+  margin: 0.4rem 0 0.6rem;
+}
+
+.game-genre {
+  display: inline-block;
+  background: #1a2a3a;
+  padding: 0.2rem 0.8rem;
+  border-radius: 20px;
+  font-size: 0.75rem;
+  color: #7aaadd;
+  border: 1px solid #2a4a6a;
+  text-transform: uppercase;
+  letter-spacing: 0.5px;
+}
+
+.game-platform {
+  display: inline-block;
+  background: #1a2a2a;
+  padding: 0.2rem 0.8rem;
+  border-radius: 20px;
+  font-size: 0.75rem;
+  color: #8addaa;
+  border: 1px solid #2a5a4a;
+}
+
+.game-description {
+  color: #b0b8c8;
+  font-size: 0.95rem;
+  line-height: 1.5;
+  margin-top: 0.4rem;
+  border-top: 1px solid #1a2230;
+  padding-top: 0.6rem;
+}
+
+footer {
+  text-align: center;
+  color: #5a6a7a;
+  font-size: 0.9rem;
+  padding: 1.5rem 0 0.5rem;
+  border-top: 1px solid #1a2230;
+}
+
+@media (max-width: 700px) {
+  body { 
+    padding: 1rem; 
+  }
+  
+  .header-content h1 {
+    font-size: 2rem;
+  }
+  
+  .header-content p {
+    font-size: 1rem;
+  }
+  
+  #game-container {
+    grid-template-columns: 1fr;
+    gap: 1.2rem;
+  }
+  
+  .game-card {
+    padding: 1.2rem;
+  }
+  
+  .game-header {
+    gap: 0.8rem;
+  }
+  
+  .game-image {
+    width: 52px;
+    height: 52px;
+  }
+  
+  .game-image-placeholder {
+    width: 52px;
+    height: 52px;
+    font-size: 1.4rem;
+  }
+  
+  .game-title h3 {
+    font-size: 1.1rem;
+  }
+}
+
+@media (max-width: 400px) {
+  body {
+    padding: 0.8rem;
+  }
+  
+  header {
+    padding: 1.2rem;
+  }
+  
+  .header-content h1 {
+    font-size: 1.6rem;
+  }
+  
+  .game-header {
+    flex-direction: column;
+    align-items: flex-start;
+    gap: 0.6rem;
+  }
+  
+  .game-image, 
+  .game-image-placeholder {
+    width: 100%;
+    height: 140px;
+  }
+  
+  .game-title h3 {
+    font-size: 1rem;
+  }
+  
+  .game-details {
+    gap: 0.5rem;
+  }
+  
+  .game-genre,
+  .game-platform {
+    font-size: 0.7rem;
+    padding: 0.15rem 0.6rem;
+  }
+  
+  .game-description {
+    font-size: 0.85rem;
+  }
+}

@@ -1,0 +1,164 @@
+[
+  {
+    "id": 1,
+    "name": "Left 4 Dead 1",
+    "genre": "Survival Horror",
+    "platform": "PC, Xbox 360",
+    "year": 2008,
+    "description": "Cooperative zombie survival game where four survivors fight through hordes of infected.",
+    "image": "https://m.media-amazon.com/images/M/MV5BNDdjMjdiYjQtZDQwYS00ZmMyLWE0ZjAtYzI5NjFjY2RmYmQxXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg"
+  },
+  {
+    "id": 2,
+    "name": "Left 4 Dead 2",
+    "genre": "Survival Horror",
+    "platform": "PC, Xbox 360",
+    "year": 2009,
+    "description": "More zombies, new survivors, and melee weapons in this epic co-op zombie shooter.",
+    "image": "https://cdn.crossplaygames.com/wp-content/uploads/2023/07/left-4-dead-2_cover.jpg"
+  },
+  {
+    "id": 3,
+    "name": "The Warriors",
+    "genre": "Action, Beat 'em Up",
+    "platform": "PS2, Xbox, PSP",
+    "year": 2005,
+    "description": "Based on the cult classic movie, fight through New York as the Warriors gang.",
+    "image": "https://image.api.playstation.com/cdn/UP1004/CUSA03515_00/Uqzi77fB6sYXGujSKLVUYcvA4Wgvb4li.png"
+  },
+  {
+    "id": 4,
+    "name": "Grand Theft Auto: San Andreas",
+    "genre": "Action-Adventure",
+    "platform": "PS2, PC, Xbox",
+    "year": 2004,
+    "description": "Carl Johnson returns to San Andreas to save his family and take control of the streets.",
+    "image": "https://wallpapercave.com/wp/wp2375496.jpg"
+  },
+  {
+    "id": 5,
+    "name": "Assault Fire",
+    "genre": "First-Person Shooter",
+    "platform": "PC",
+    "year": 2018,
+    "description": "Intense FPS action with a variety of weapons and combat scenarios.",
+    "image": "https://wallup.net/wp-content/uploads/2019/09/07/216136-assault-fire.jpg"
+  },
+  {
+    "id": 6,
+    "name": "Call of Duty: Mobile",
+    "genre": "First-Person Shooter",
+    "platform": "Mobile",
+    "year": 2019,
+    "description": "Classic Call of Duty multiplayer and battle royale experience on mobile.",
+    "image": "https://wallpapercave.com/wp/wp9158923.jpg"
+  },
+  {
+    "id": 7,
+    "name": "MDickie Games",
+    "genre": "Collection",
+    "platform": "Various",
+    "year": 2000,
+    "description": "A collection of unique and creative games from indie developer MDickie.",
+    "image": "https://static.wikia.nocookie.net/logopedia/images/b/b2/MDickie_Logo_2012.png/revision/latest/scale-to-width-down/250?cb=20250202151124"
+  },
+  {
+    "id": 8,
+    "name": "Minecraft",
+    "genre": "Sandbox, Survival",
+    "platform": "PC, Console, Mobile",
+    "year": 2011,
+    "description": "Build, explore, and survive in an infinite blocky world of creativity.",
+    "image": "https://pliki.ppe.pl/storage/ae85801a33384ac87229/ae85801a33384ac87229.jpg"
+  },
+  {
+    "id": 9,
+    "name": "WWE 2K11",
+    "genre": "Sports, Wrestling",
+    "platform": "PS3, Xbox 360, Wii",
+    "year": 2010,
+    "description": "Wrestling simulation with a huge roster of WWE legends and superstars.",
+    "image": "https://static.wikia.nocookie.net/pm-universe/images/c/c3/SvR2011_Cover_USA-477-1920.jpg/revision/latest?cb=20200427201155"
+  },
+  {
+    "id": 10,
+    "name": "NBA 2K18",
+    "genre": "Sports, Basketball",
+    "platform": "PS4, Xbox One, PC",
+    "year": 2017,
+    "description": "Realistic basketball simulation with authentic NBA teams and gameplay.",
+    "image": "https://www.gamespot.com/a/uploads/scale_medium/1197/11970954/3249306-nba2k18_fob_std_none.jpg"
+  },
+  {
+    "id": 11,
+    "name": "LEGO Marvel Super Heroes",
+    "genre": "Action-Adventure",
+    "platform": "PS3, Xbox 360, PC",
+    "year": 2013,
+    "description": "Play as your favorite Marvel characters in this fun LEGO adventure.",
+    "image": "https://th.bing.com/th/id/R.0a80d6143796dd979692cd2c80cd6e8a?rik=AmR0u0ttT5IfpQ&riu=http%3a%2f%2fimages2.wikia.nocookie.net%2f__cb20130710192807%2fmarveldatabase%2fimages%2f4%2f46%2fLEGO_Marvel_Super_Heroes_box_art.jpg&ehk=LjE6Tp3Pg1AeOJZw3LreVkIx20uUK9iW3YxXClBJIV0%3d&risl=&pid=ImgRaw&r=0"
+  },
+  {
+    "id": 12,
+    "name": "The Walking Dead: Season One",
+    "genre": "Adventure, Narrative",
+    "platform": "PC, Console, Mobile",
+    "year": 2012,
+    "description": "An emotional journey with Lee and Clementine in a zombie apocalypse.",
+    "image": "https://play-lh.googleusercontent.com/Z4DBaIKoo88TwrBNzaUvsgJWs5f0CiIo8kOVIt-EAB9vajKeia3d6WTvdCp4ExTuLlQ"
+  },
+  {
+    "id": 13,
+    "name": "The Walking Dead: Season Two",
+    "genre": "Adventure, Narrative",
+    "platform": "PC, Console, Mobile",
+    "year": 2013,
+    "description": "Clementine's story continues as she survives and makes tough choices.",
+    "image": "https://assets1.ignimgs.com/2019/01/17/walking-dead-season-2---button-fin2-1547745887015.jpg"
+  },
+  {
+    "id": 14,
+    "name": "The Walking Dead: Season Three",
+    "genre": "Adventure, Narrative",
+    "platform": "PC, Console, Mobile",
+    "year": 2016,
+    "description": "A new chapter with new characters and tough decisions.",
+    "image": "https://static.wikia.nocookie.net/walkingdead/images/e/e9/Anf2.jpeg/revision/latest?cb=20230317222839"
+  },
+  {
+    "id": 15,
+    "name": "The Walking Dead: Season Four",
+    "genre": "Adventure, Narrative",
+    "platform": "PC, Console",
+    "year": 2018,
+    "description": "The final season of Clementine's gripping journey.",
+    "image": "https://gamefaqs.gamespot.com/a/box/2/4/2/637242_front.jpg"
+  },
+  {
+    "id": 16,
+    "name": "Toy Story 3",
+    "genre": "Action-Adventure",
+    "platform": "PS3, Xbox 360, Wii",
+    "year": 2010,
+    "description": "Play as Woody and friends in an exciting adventure based on the movie.",
+    "image": "https://tse2.mm.bing.net/th/id/OIP._9vP3grcEsedqQwwIugW1AHaJJ?r=0&rs=1&pid=ImgDetMain&o=7&rm=3"
+  },
+  {
+    "id": 17,
+    "name": "Prototype",
+    "genre": "Action-Adventure",
+    "platform": "PS3, Xbox 360, Wii",
+    "year": 2009,
+    "description": "Play as Alex Mercer, a shapeshifting man battling a deadly virus outbreak in New York City.",
+    "image": "https://static.tvtropes.org/pmwiki/pub/images/d5b40b573a37429adf2bd6af6563c4d3.jpg"
+  },
+  {
+    "id": 18,
+    "name": "Plants vs. Zombies",
+    "genre": "Tower Defense",
+    "platform": "PC, Nintendo DS, PS3, Xbox 360",
+    "year": 2009,
+    "description": "Defend your home using powerful plants against waves of zombies.",
+    "image": "https://assets-prd.ignimgs.com/2022/01/31/plants-vs-zombies-1-button-1643616180623.jpg"
+  }
+]
