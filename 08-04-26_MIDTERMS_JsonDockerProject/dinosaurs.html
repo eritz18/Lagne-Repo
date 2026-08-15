@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>DinoVault · dinosaurs</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <nav class="main-nav">
+    <a class="nav-brand" href="index.html" aria-label="DinoVault home">
+      <span class="brand-mark" aria-hidden="true">DV</span>
+      <span class="brand-copy"><strong>DinoVault</strong><small>Field archive</small></span>
+    </a>
+    <ul>
+      <li><a href="index.html">Home</a></li>
+      <li><a href="dinosaurs.html" class="active">Dinosaurs</a></li>
+      <li><a href="timeline.html">Timeline</a></li>
+      <li><a href="fossils.html">Fossils</a></li>
+      <li><a href="about.html">About</a></li>
+    </ul>
+  </nav>
+
+  <main>
+    <h1 class="page-title">Dinosaur species catalog</h1>
+    <div class="filter-bar">
+      <input type="text" id="dinoSearch" placeholder="Search by name, period, diet…" aria-label="Search dinosaurs">
+      <button id="clearSearchBtn" aria-label="Clear search">✕</button>
+    </div>
+    <div id="dinosaur-container" class="card-grid" aria-live="polite"></div>
+  </main>
+
+  <footer>
+    <p>© 2026 DinoVault · living species catalog</p>
+  </footer>
+
+  <script src="js/dinosaurs.js"></script>
+</body>
+</html>

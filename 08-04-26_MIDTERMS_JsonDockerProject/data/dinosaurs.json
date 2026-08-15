@@ -1,0 +1,178 @@
+[
+  {
+    "name": "Tyrannosaurus rex",
+    "scientificName": "Tyrannosaurus rex",
+    "period": "Late Cretaceous",
+    "diet": "Carnivore",
+    "location": "North America",
+    "length": "12.3 m",
+    "weight": "7,000 kg",
+    "description": "The king of the dinosaurs. Massive skull, powerful jaws.",
+    "image": "https://cdn.futura-sciences.com/sources/tyrannosaurus-warpaintcobra-AdobeStock.jpg"
+  },
+  {
+    "name": "Triceratops",
+    "scientificName": "Triceratops horridus",
+    "period": "Late Cretaceous",
+    "diet": "Herbivore",
+    "location": "North America",
+    "length": "9 m",
+    "weight": "6,000 kg",
+    "description": "Famous for its three horns and large frill.",
+    "image": "https://prehistoricsaurus.com/wp-content/uploads/2023/10/triceratops-natural-habitat-late-cretaceous.webp"
+  },
+  {
+    "name": "Velociraptor",
+    "scientificName": "Velociraptor mongoliensis",
+    "period": "Late Cretaceous",
+    "diet": "Carnivore",
+    "location": "Asia",
+    "length": "2 m",
+    "weight": "15 kg",
+    "description": "Small but swift predator, known for its sickle claw.",
+    "image": "https://images.fineartamerica.com/images-medium-large-5/deinonychus-dinosaur-roger-harris.jpg"
+  },
+  {
+    "name": "Stegosaurus",
+    "scientificName": "Stegosaurus stenops",
+    "period": "Late Jurassic",
+    "diet": "Herbivore",
+    "location": "North America",
+    "length": "9 m",
+    "weight": "5,000 kg",
+    "description": "Distinctive plates and spiked tail.",
+    "image": "https://i.pinimg.com/originals/da/7b/8e/da7b8ec0cb2418e57168cf4e90654295.jpg"
+  },
+  {
+    "name": "Brachiosaurus",
+    "scientificName": "Brachiosaurus altithorax",
+    "period": "Late Jurassic",
+    "diet": "Herbivore",
+    "location": "North America",
+    "length": "22 m",
+    "weight": "28,000 kg",
+    "description": "One of the tallest sauropods, with long front legs.",
+    "image": "https://www.natureweb.net/resources/taxa/Dinosaurs/Brachiosaurus/shutterstock_1424391524.jpg"
+  },
+  {
+    "name": "Spinosaurus",
+    "scientificName": "Spinosaurus aegyptiacus",
+    "period": "Late Cretaceous",
+    "diet": "Carnivore",
+    "location": "North Africa",
+    "length": "15 m",
+    "weight": "7,000 kg",
+    "description": "Semi-aquatic dinosaur with a sail-like spine.",
+    "image": "https://th.bing.com/th/id/R.ff0eff1fd35ab7e316d5e0d971553860?rik=Pxhk9hRvY5w5YA&riu=http%3a%2f%2fimages4.fanpop.com%2fimage%2fphotos%2f23700000%2fSpinosaurus-dinosaurs-23744497-1200-840.jpg&ehk=u8C7ZkovMDNtyLiXm9HZwWcN8DUOwgE%2fw6ekYW8Jdtc%3d&risl=&pid=ImgRaw&r=0"
+  },
+  {
+    "name": "Ankylosaurus",
+    "scientificName": "Ankylosaurus magniventris",
+    "period": "Late Cretaceous",
+    "diet": "Herbivore",
+    "location": "North America",
+    "length": "8 m",
+    "weight": "6,000 kg",
+    "description": "Heavily armored with a bony club tail.",
+    "image": "https://koala.sh/api/image/v2-3w3fu-sx1hr.jpg?width=1216&height=832&dream"
+  },
+  {
+    "name": "Parasaurolophus",
+    "scientificName": "Parasaurolophus walkeri",
+    "period": "Late Cretaceous",
+    "diet": "Herbivore",
+    "location": "North America",
+    "length": "10 m",
+    "weight": "2,500 kg",
+    "description": "Known for its long, hollow crest.",
+    "image": "https://justfamilyfun.com/wp-content/uploads/2025/02/Parasaurolophus-4.jpg"
+  },
+  {
+    "name": "Allosaurus",
+    "scientificName": "Allosaurus fragilis",
+    "period": "Late Jurassic",
+    "diet": "Carnivore",
+    "location": "North America",
+    "length": "10 m",
+    "weight": "2,000 kg",
+    "description": "A large theropod and top predator of its time.",
+    "image": "https://th.bing.com/th/id/R.5b118cedbadc258d80cef650f6778887?rik=Gt0NZq23jgdsTA&riu=http%3a%2f%2fi.huffpost.com%2fgen%2f1151138%2fimages%2fo-ALLOSAURUS-FEEDING-facebook.jpg&ehk=Pg2fD7D1jXbqPp9iyYufFezw7DLWCn4QQdb5pYB9CEk%3d&risl=&pid=ImgRaw&r=0"
+  },
+  {
+    "name": "Diplodocus",
+    "scientificName": "Diplodocus longus",
+    "period": "Late Jurassic",
+    "diet": "Herbivore",
+    "location": "North America",
+    "length": "27 m",
+    "weight": "12,000 kg",
+    "description": "Extremely long neck and whip-like tail.",
+    "image": "https://vignette.wikia.nocookie.net/prehistoric-kingdom/images/e/e6/Diplodocus.png/revision/latest?cb=20200812192146"
+  },
+    {
+    "name": "Carnotaurus",
+    "scientificName": "Carnotaurus sastrei",
+    "period": "Late Cretaceous",
+    "diet": "Carnivore",
+    "location": "South America",
+    "length": "8 m",
+    "weight": "2,000 kg",
+    "description": "Bull-like horns and a deep skull.",
+    "image": "https://i.pinimg.com/originals/e7/43/4a/e7434ab46ed32c6386be362d47fb92fa.jpg"
+  },
+  {
+    "name": "Iguanodon",
+    "scientificName": "Iguanodon bernissartensis",
+    "period": "Early Cretaceous",
+    "diet": "Herbivore",
+    "location": "Europe",
+    "length": "10 m",
+    "weight": "3,500 kg",
+    "description": "Large ornithopod with thumb spikes.",
+    "image": "https://dinomaniacos.com/wp-content/uploads/2025/05/dinosaurio-iguanodon-3.webp"
+  },
+  {
+    "name": "Pachycephalosaurus",
+    "scientificName": "Pachycephalosaurus wyomingensis",
+    "period": "Late Cretaceous",
+    "diet": "Herbivore",
+    "location": "North America",
+    "length": "4.5 m",
+    "weight": "450 kg",
+    "description": "Known for its thick, domed skull.",
+    "image": "https://cdn.mos.cms.futurecdn.net/VpN8xnzzD2EqkoTRXxT6Lj.jpg"
+  },
+  {
+    "name": "Dilophosaurus",
+    "scientificName": "Dilophosaurus wetherilli",
+    "period": "Early Jurassic",
+    "diet": "Carnivore",
+    "location": "North America",
+    "length": "7 m",
+    "weight": "500 kg",
+    "description": "Distinctive paired crests on its skull.",
+    "image": "https://justfamilyfun.com/wp-content/uploads/2025/02/Dilophosaurus-4.png"
+  },
+  {
+    "name": "Argentinosaurus",
+    "scientificName": "Argentinosaurus huinculensis",
+    "period": "Late Cretaceous",
+    "diet": "Herbivore",
+    "location": "South America",
+    "length": "35 m",
+    "weight": "75,000 kg",
+    "description": "One of the largest dinosaurs ever.",
+    "image": "https://www.thoughtco.com/thmb/PfIL3ZCPfFwQi0QUlWjW5eDA9_c=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/GettyImages-1087324712-57e7d9a94d0c499387ebc24792fa4f9d.jpg"
+  },
+  {
+    "name": "Compsognathus",
+    "scientificName": "Compsognathus longipes",
+    "period": "Late Jurassic",
+    "diet": "Carnivore",
+    "location": "Europe",
+    "length": "0.9 m",
+    "weight": "3 kg",
+    "description": "Small, bird-like predator.",
+    "image": "https://a-z-animals.com/media/2022/06/Compsognathus-header.jpg"
+  }
+]

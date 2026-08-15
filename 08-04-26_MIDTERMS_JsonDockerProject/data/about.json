@@ -1,0 +1,25 @@
+{
+  "pageTitle": "About DinoVault",
+  "sections": [
+    {
+      "heading": "🦖 What are dinosaurs?",
+      "content": "Dinosaurs are a diverse group of reptiles that first appeared during the Triassic period, about 245 million years ago. They dominated terrestrial ecosystems for over 160 million years until the Cretaceous–Paleogene extinction event 66 million years ago. Dinosaurs ranged from small, bird-like creatures to massive sauropods weighing over 70 tons."
+    },
+    {
+      "heading": "🔬 What is paleontology?",
+      "content": "Paleontology is the scientific study of the history of life on Earth through the examination of plant and animal fossils. Paleontologists use fossils to understand ancient environments, evolution, and extinction events. The field combines biology, geology, and ecology to reconstruct Earth's deep past."
+    },
+    {
+      "heading": "🪨 How fossils help science",
+      "content": "Fossils provide direct evidence of past life. They tell us about the anatomy, behavior, diet, and evolution of extinct organisms. Fossilized footprints, eggs, and coprolites (fossil dung) give even more insight into the lives of ancient creatures. Fossils also help us understand climate change, plate tectonics, and the history of life on our planet."
+    },
+    {
+      "heading": "🌍 Why dinosaurs matter",
+      "content": "Dinosaurs show us how life adapts and changes over millions of years. They help us understand Earth's deep history, plate tectonics, climate change, and the resilience of life. Studying them also informs conservation efforts today by showing us how species respond to environmental changes. Dinosaurs remind us of the vastness of geological time and the fragility of life."
+    },
+    {
+      "heading": "📖 The Science of Paleontology",
+      "content": "Paleontologists uncover Earth's ancient past through Excavation → Preparation → Identification → Dating → Reconstruction, turning fossils into clues about prehistoric life."
+    }
+  ]
+}

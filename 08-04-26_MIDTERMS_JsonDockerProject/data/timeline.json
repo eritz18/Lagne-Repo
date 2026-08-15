@@ -1,0 +1,101 @@
+[
+  {
+    "title": "Permian · before the dinosaurs",
+    "period": "Permian",
+    "epoch": "Lopingian",
+    "timeAgo": "~252–299 million years ago",
+    "dateRange": "299–252 Ma",
+    "description": "The Permian is the last period of the Paleozoic. Dinosaurs had not yet evolved. It ended with the largest mass extinction in Earth's history, wiping out about 90% of all species.",
+    "majorEvents": "Mass extinction · formation of Pangea · first reptiles",
+    "notableDinosaurs": "None (pre-dinosaur era)",
+    "image": "https://images.fineartamerica.com/images-medium-large-5/permian-landscape-stefan-schiesslscience-photo-library.jpg"
+  },
+  {
+    "title": "Early Triassic · dawn of dinosaurs",
+    "period": "Triassic",
+    "epoch": "Early Triassic",
+    "timeAgo": "~252–247 million years ago",
+    "dateRange": "252–247 Ma",
+    "description": "Life slowly recovered from the Permian extinction. The first dinosaurs appeared about 245 million years ago. Early forms like Eoraptor and Herrerasaurus roamed the supercontinent Pangea.",
+    "majorEvents": "First dinosaurs appear · Pangea intact",
+    "notableDinosaurs": "Eoraptor, Herrerasaurus",
+    "image": "https://www.nps.gov/subjects/fossils/images/temp-triassic-banner.jpg"
+  },
+  {
+    "title": "Middle Triassic · diversification",
+    "period": "Triassic",
+    "epoch": "Middle Triassic",
+    "timeAgo": "~247–237 million years ago",
+    "dateRange": "247–237 Ma",
+    "description": "Dinosaurs began to diversify alongside other reptiles. The climate was hot and dry. Small theropods and early sauropodomorphs appeared.",
+    "majorEvents": "Dinosaur diversification · first true mammals",
+    "notableDinosaurs": "Plateosaurus, Coelophysis",
+    "image": "https://www.dinosaur.org/wp-content/uploads/2024/02/lush-Triassic-landscape-with-a-variety-of-archosaurs-1024x574.png"
+  },
+  {
+    "title": "Late Triassic · dominance begins",
+    "period": "Triassic",
+    "epoch": "Late Triassic",
+    "timeAgo": "~237–201 million years ago",
+    "dateRange": "237–201 Ma",
+    "description": "Dinosaurs became the dominant land vertebrates. The Triassic ended with another mass extinction that cleared the way for dinosaurs to rule the Jurassic.",
+    "majorEvents": "Dinosaur dominance · Triassic-Jurassic extinction",
+    "notableDinosaurs": "Allosaurus, Stegosaurus (early forms)",
+    "image": "https://www.sciencephoto.com/image/843770/530wm"
+  },
+  {
+    "title": "Early Jurassic · giants arise",
+    "period": "Jurassic",
+    "epoch": "Early Jurassic",
+    "timeAgo": "~201–174 million years ago",
+    "dateRange": "201–174 Ma",
+    "description": "The Jurassic period saw the rise of giant sauropods and the first birds. Pangea began to split apart. The climate was warm and humid.",
+    "majorEvents": "Sauropod evolution · first birds",
+    "notableDinosaurs": "Brachiosaurus, Dilophosaurus",
+    "image": "https://i.natgeofe.com/n/b84387cb-28f5-4611-a221-65ae275ae2e3/1028.jpg"
+  },
+  {
+    "title": "Middle Jurassic · age of giants",
+    "period": "Jurassic",
+    "epoch": "Middle Jurassic",
+    "timeAgo": "~174–163 million years ago",
+    "dateRange": "174–163 Ma",
+    "description": "Sauropods reached enormous sizes. The first stegosaurs appeared. The supercontinent continued to break apart.",
+    "majorEvents": "Giant sauropods · stegosaur evolution",
+    "notableDinosaurs": "Diplodocus, Stegosaurus",
+    "image": "https://images.fineartamerica.com/images-medium-large-5/middle-jurassic-dinosaurs-richard-bizley.jpg"
+  },
+  {
+    "title": "Late Jurassic · golden age",
+    "period": "Jurassic",
+    "epoch": "Late Jurassic",
+    "timeAgo": "~163–145 million years ago",
+    "dateRange": "163–145 Ma",
+    "description": "The peak of Jurassic dinosaur diversity. Large theropods like Allosaurus hunted giant sauropods. The first birds evolved.",
+    "majorEvents": "Peak dinosaur diversity · first birds",
+    "notableDinosaurs": "Allosaurus, Diplodocus, Brachiosaurus",
+    "image": "https://i.pinimg.com/736x/b3/3c/68/b33c6812e4a3454c2f3404e1e496041a.jpg"
+  },
+  {
+    "title": "Early Cretaceous · new species",
+    "period": "Cretaceous",
+    "epoch": "Early Cretaceous",
+    "timeAgo": "~145–100 million years ago",
+    "dateRange": "145–100 Ma",
+    "description": "Flowering plants appeared. New dinosaur species evolved, including early raptors and ceratopsians. The continents continued to separate.",
+    "majorEvents": "Flowering plants appear · new dinosaur species",
+    "notableDinosaurs": "Iguanodon, Utahraptor",
+    "image": "https://images.fineartamerica.com/images-medium-large-5/early-cretaceous-life-richard-bizley.jpg"
+  },
+  {
+    "title": "Late Cretaceous · the end",
+    "period": "Cretaceous",
+    "epoch": "Late Cretaceous",
+    "timeAgo": "~100–66 million years ago",
+    "dateRange": "100–66 Ma",
+    "description": "The last and most diverse period of dinosaur evolution. T. rex, Triceratops, and Spinosaurus ruled. An asteroid impact 66 million years ago ended the dinosaur era.",
+    "majorEvents": "Peak dinosaur diversity · extinction event",
+    "notableDinosaurs": "T. rex, Triceratops, Velociraptor",
+    "image": "https://i.pinimg.com/originals/d2/be/a4/d2bea45dbd19c9e97d943446c70d4f71.jpg"
+  }
+]

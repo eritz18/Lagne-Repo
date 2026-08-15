@@ -1,0 +1,90 @@
+[
+  {
+    "name": "Sue the T. rex",
+    "discoveryLocation": "South Dakota",
+    "country": "USA",
+    "yearDiscovered": 1990,
+    "dinosaur": "Tyrannosaurus rex",
+    "scientificName": "Tyrannosaurus rex",
+    "significance": "One of the most complete T. rex specimens ever found, with about 90% of the skeleton recovered.",
+    "description": "Sue is a nearly complete T. rex skeleton discovered by Sue Hendrickson. It revolutionized our understanding of T. rex anatomy, growth, and behavior. The fossil is now on display at the Field Museum in Chicago.",
+    "image": "https://resource.globenewswire.com/Resource/Download/bcf7e481-f21e-4b88-b5f1-3fe8ab237c6c"
+  },
+  {
+    "name": "The Fighting Dinosaurs",
+    "discoveryLocation": "Gobi Desert",
+    "country": "Mongolia",
+    "yearDiscovered": 1971,
+    "dinosaur": "Velociraptor",
+    "scientificName": "Velociraptor mongoliensis",
+    "significance": "The 'fighting dinosaurs' fossil shows a Velociraptor locked in combat with a Protoceratops, providing rare evidence of dinosaur behavior.",
+    "description": "This extraordinary fossil preserves a Velociraptor and Protoceratops in a life-or-death struggle. It was discovered in the Gobi Desert by a Polish-Mongolian expedition. The specimen is one of the most famous dinosaur fossils ever found.",
+    "image": "https://i.pinimg.com/originals/f6/ba/b5/f6bab5c9942d34b89b32e991dddf2f68.png"
+  },
+  {
+    "name": "Diplodocus carnegii",
+    "discoveryLocation": "Wyoming",
+    "country": "USA",
+    "yearDiscovered": 1899,
+    "dinosaur": "Diplodocus",
+    "scientificName": "Diplodocus carnegii",
+    "significance": "One of the most complete Diplodocus skeletons ever found. It was the first mounted sauropod skeleton in a museum.",
+    "description": "This nearly complete Diplodocus skeleton was discovered in Wyoming and mounted at the Carnegie Museum of Natural History. It has since been replicated and displayed in museums around the world, making it one of the most famous dinosaur fossils.",
+    "image": "https://cowboystatedaily.imgix.net/Diplodocus-Andrew-IMG_1270-7.6.24.jpeg?ixlib=js-3.8.0&q=75&auto=format%2Ccompress"
+  },
+  {
+    "name": "Archaeopteryx",
+    "discoveryLocation": "Solnhofen",
+    "country": "Germany",
+    "yearDiscovered": 1861,
+    "dinosaur": "Archaeopteryx",
+    "scientificName": "Archaeopteryx lithographica",
+    "significance": "The first discovered transitional fossil between dinosaurs and birds, providing crucial evidence for evolution.",
+    "description": "Archaeopteryx is the earliest known bird and a key transitional fossil. It had feathers like birds but teeth and a bony tail like dinosaurs. The Solnhofen limestone where it was found preserved the delicate feather impressions.",
+    "image": "https://assets2.fossilera.com/sp/582128/fossil-art/archaeopteryx.jpg"
+  },
+  {
+    "name": "Triceratops Horridus",
+    "discoveryLocation": "Colorado",
+    "country": "USA",
+    "yearDiscovered": 1887,
+    "dinosaur": "Triceratops",
+    "scientificName": "Triceratops horridus",
+    "significance": "One of the earliest recognized Triceratops discoveries, helping establish the animal as a distinctive Late Cretaceous dinosaur.",
+    "description": "The first Triceratops remains were discovered in Colorado. Its massive skull, three horns, and large frill made it one of the most recognizable dinosaurs.",
+    "image": "https://cdn.mos.cms.futurecdn.net/Fxqy87tW7XcdNnxd8qJzcT.jpg"
+  },
+  {
+     "name": "Big Al",
+    "discoveryLocation": "Wyoming",
+    "country": "USA",
+    "yearDiscovered": 1991,
+    "dinosaur": "Allosaurus",
+    "scientificName": "Allosaurus fragilis",
+    "significance": "An exceptionally complete Allosaurus skeleton that preserved numerous injuries and provided clues about the animal's life.",
+    "description": "Big Al was discovered in the Morrison Formation. Its skeleton was about 95% complete and contained numerous healed injuries, allowing scientists to investigate the challenges faced by this Jurassic predator.",
+    "image": "https://i.pinimg.com/originals/62/80/fc/6280fc4cdf31e9b6a8ce3c1421531da7.jpg"
+  },
+  {
+    "name": "The London Iguanodon",
+    "discoveryLocation": "Sussex",
+    "country": "United Kingdom",
+    "yearDiscovered": 1822,
+    "dinosaur": "Iguanodon",
+    "scientificName": "Iguanodon bernissartensis",
+    "significance": "Iguanodon was among the first dinosaurs scientifically recognized and helped establish the concept of dinosaurs as a distinct group.",
+    "description": "Iguanodon teeth discovered by Mary Ann Mantell helped reveal the existence of large prehistoric reptiles unlike any known living animal. Later discoveries greatly expanded knowledge of its skeleton.",
+    "image": "https://bigthink.com/wp-content/uploads/2018/07/18623775.jpg?fit=708"
+  },
+  {
+    "name": "Deinonychus",
+    "discoveryLocation": "Montana",
+    "country": "USA",
+    "yearDiscovered": 1964,
+    "dinosaur": "Deinonychus",
+    "scientificName": "Deinonychus antirrhopus",
+    "significance": "This discovery revolutionized dinosaur paleontology by showing that dinosaurs were active, warm-blooded predators, not sluggish reptiles.",
+    "description": "Deinonychus was discovered by paleontologist John Ostrom. Its large sickle claw and agile build suggested it was a fast, intelligent predator. This finding helped spark the 'Dinosaur Renaissance' in the 1960s.",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Deinonychus_FMNH.jpg/960px-Deinonychus_FMNH.jpg"
+  }
+]
