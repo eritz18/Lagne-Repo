@@ -1,0 +1,210 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+
+    <meta charset="UTF-8">
+
+    <meta
+        name="viewport"
+        content="width=device-width, initial-scale=1.0"
+    >
+
+    <title>HTTP Status for Dogs</title>
+
+    <link rel="stylesheet" href="style.css">
+
+</head>
+
+
+<body>
+
+
+
+    <header>
+
+        <div class="header-line"></div>
+
+        <h1>HTTP Status for Dogs</h1>
+
+        <p>
+            Learn HTTP status codes with adorable dogs.
+        </p>
+
+        <div class="header-line"></div>
+
+    </header>
+
+
+
+    <main>
+
+        <section class="dog-card">
+
+            <p class="label">
+                HTTP STATUS EXPLORER
+            </p>
+
+            <h2>
+                Choose a Status Code
+            </h2>
+
+            <p class="description">
+                Enter an HTTP status code below
+                and meet its dog.
+            </p>
+
+
+
+            <div class="input-area">
+
+                <input
+                    type="number"
+                    id="statusCode"
+                    placeholder="404"
+                    min="100"
+                    max="599"
+                >
+
+                <button onclick="showDog()">
+                    Show Dog
+                </button>
+
+            </div>
+
+
+
+            <div id="dogResult"></div>
+
+        </section>
+
+    </main>
+
+
+
+    <footer>
+
+        <p>
+            HTTP Status for Dogs
+        </p>
+
+        <p>
+            Built with Node.js + Express.js 🐶
+        </p>
+
+    </footer>
+
+
+
+    <script>
+
+        async function showDog() {
+
+            const code =
+                document.getElementById(
+                    'statusCode'
+                ).value;
+
+            const result =
+                document.getElementById(
+                    'dogResult'
+                );
+
+
+
+            if (!code) {
+
+                result.innerHTML = `
+                    <p class="error">
+                        Please enter a status code.
+                    </p>
+                `;
+
+                return;
+
+            }
+
+
+            result.innerHTML = `
+                <p class="loading">
+                    Finding your dog...
+                </p>
+            `;
+
+
+            try {
+
+                const response =
+                    await fetch(
+                        `/api/dog?code=${code}`
+                    );
+
+
+                const data =
+                    await response.json();
+
+
+
+                if (!response.ok) {
+
+                    result.innerHTML = `
+                        <p class="error">
+                            ${data.error}
+                        </p>
+                    `;
+
+                    return;
+
+                }
+
+
+
+                result.innerHTML = `
+
+                    <div class="result">
+
+                        <p class="result-code">
+                            HTTP ${data.code}
+                        </p>
+
+                        <img
+                            src="${data.image}"
+                            alt="HTTP ${data.code} dog"
+                        >
+
+                        <p>
+                            This dog represents
+                            HTTP status code
+                            <strong>${data.code}</strong>.
+                        </p>
+
+                    </div>
+
+                `;
+
+            }
+
+
+            catch (error) {
+
+                console.error(error);
+
+                result.innerHTML = `
+
+                    <p class="error">
+                        Unable to connect to
+                        the server.
+                    </p>
+
+                `;
+
+            }
+
+        }
+
+    </script>
+
+
+</body>
+
+</html>
